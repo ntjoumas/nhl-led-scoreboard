@@ -52,12 +52,12 @@
                 "USA",
                 "Canada"
             ],
-            "us_state_enabled": false,
+            "us_state_enabled": true,
             "us_state": [
                 "Virginia",
                 "New York"
             ],
-            "canada_enabled": true,
+            "canada_enabled": false,
             "canada_prov": [
                 "New Brunswick",
                 "Quebec"
